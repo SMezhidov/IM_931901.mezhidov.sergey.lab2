@@ -1,0 +1,10 @@
+C:\Users\New\source\repos\IM_lab2\IM_lab2\bin\Debug\IM_lab2.exe.config
+C:\Users\New\source\repos\IM_lab2\IM_lab2\bin\Debug\IM_lab2.exe
+C:\Users\New\source\repos\IM_lab2\IM_lab2\bin\Debug\IM_lab2.pdb
+C:\Users\New\source\repos\IM_lab2\IM_lab2\obj\Debug\IM_lab2.csprojAssemblyReference.cache
+C:\Users\New\source\repos\IM_lab2\IM_lab2\obj\Debug\IM_lab2.Form1.resources
+C:\Users\New\source\repos\IM_lab2\IM_lab2\obj\Debug\IM_lab2.Properties.Resources.resources
+C:\Users\New\source\repos\IM_lab2\IM_lab2\obj\Debug\IM_lab2.csproj.GenerateResource.cache
+C:\Users\New\source\repos\IM_lab2\IM_lab2\obj\Debug\IM_lab2.csproj.CoreCompileInputs.cache
+C:\Users\New\source\repos\IM_lab2\IM_lab2\obj\Debug\IM_lab2.exe
+C:\Users\New\source\repos\IM_lab2\IM_lab2\obj\Debug\IM_lab2.pdb
